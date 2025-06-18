@@ -13,6 +13,6 @@ dashbord for e-commerce electronics shop
 -  io command line reading;
 
   
-##🛫 Run locally
+## 🛫 Run locally
 ```bash
 cargo run
